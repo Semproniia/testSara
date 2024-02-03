@@ -1,4 +1,4 @@
-#prova per sara, battaglia test
+#modifica
 import hashlibg
 import logging
 
